@@ -1,11 +1,11 @@
 import { Suspense } from "react";
 import { BrowserRouter, Route } from "react-router-dom";
-import Home from "../pages/home";
+import AccessData from "../pages/AccessData";
 
 const Routes = () => (
     <BrowserRouter>
-        <Suspense fallback="carregando...">
-            <Route path="/home" component={Home} />
+        <Suspense fallback="Loading...">
+            <Route path="/access-data" component={AccessData} />
         </Suspense>
     </BrowserRouter>
 );

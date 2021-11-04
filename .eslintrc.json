@@ -20,6 +20,7 @@
     },
     "rules": {
         "import/no-unresolved": "error",
+        "import/prefer-default-export": "off",
         "react/react-in-jsx-scope": "off",
         "react/jsx-filename-extension": "off",
         "@typescript-eslint/explicit-module-boundary-types": "off",
