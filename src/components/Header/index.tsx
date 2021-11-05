@@ -77,7 +77,9 @@ const Header = () => {
                             handleSelect(e)
                         }
                     >
-                        <option defaultValue="">Selecione um período</option>
+                        <option selected disabled hidden>
+                            Selecione um período
+                        </option>
                         {PRESET_DATAS.map((element) => (
                             <option key={element.value} value={element.value}>
                                 {element.title}

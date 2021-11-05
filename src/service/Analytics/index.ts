@@ -7,7 +7,7 @@ import {
 export class AnalyticsService {
     constructor(
         private readonly httpClient: HttpClient,
-        private readonly url = `https://localhost:5000`
+        private readonly url = `http://localhost:3000`
     ) {}
 
     async getInformationsByPeriod(period: string) {
@@ -17,7 +17,7 @@ export class AnalyticsService {
 
         const { statusCode, body } = await this.httpClient.request({
             method: "get",
-            url: `${this.url}/experts-club-informations/period/${period}`,
+            url: `${this.url}/${period}`,
             headers,
         });
 
