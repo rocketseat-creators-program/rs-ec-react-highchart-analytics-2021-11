@@ -1,0 +1,92 @@
+{
+    "yesterday": [
+        {
+            "totalAccessOnPages": {
+                "ignite": 200,
+                "expertsClub": 500,
+                "all": 700
+            },
+            "totalAccessOnPagesByHour": {
+                "ignite": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+                "expertsClub":  [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24]
+            },
+            "totalAccessOnPagesByMonth": {
+                "months": [[1627797600000, 0]],
+                "days": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32]
+            },
+            "accessGoals": 1500,
+            "accessByDevice": {
+                "mobile": 200,
+                "browser": 400
+            },
+            "wordCloud": [
+                {
+                    "name": "Google",
+                    "weight": 3
+                },
+                {
+                    "name": "Rocketseat",
+                    "weight": 5
+                },
+                {
+                    "name": "Experts Club",
+                    "weight": 10
+                },
+                {
+                    "name": "Experts Club",
+                    "weight": 10
+                },
+                {
+                    "name": "Microsoft",
+                    "weight": 4
+                },
+                {
+                    "name": "Stone",
+                    "weight": 4
+                },
+                {
+                    "name": "ReclameAqui",
+                    "weight": 5
+                },
+                {
+                    "name": "Pipefy",
+                    "weight": 2
+                },
+                {
+                    "name": "PagSeguro",
+                    "weight": 10
+                }
+            ]
+        }
+    ],
+    "last_week": [
+        {
+            "id": 2,
+            "nome": "Refrigerantes"
+        }
+    ],
+    "last_30_days": [
+        {
+            "id": 2,
+            "nome": "Refrigerantes"
+        }
+    ],
+    "last_3_months": [
+        {
+            "id": 2,
+            "nome": "Refrigerantes"
+        }
+    ],
+    "last_6_months": [
+        {
+            "id": 2,
+            "nome": "Refrigerantes"
+        }
+    ],
+    "last_12_months": [
+        {
+            "id": 2,
+            "nome": "Refrigerantes"
+        }
+    ]
+}
