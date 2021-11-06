@@ -3,7 +3,7 @@ import * as S from "./styles";
 import ExpertsClubLogo from "../../assets/expets-club-logo.svg";
 import { AnalyticsService } from "../../service/Analytics";
 import { AxiosAdapter } from "../../infra/AxiosAdapter";
-import { AnalyticsData } from "../../domain/model";
+import { AnalyticsData } from "../../model";
 import useAnalyticsData from "../../hook/useAnalyticsData";
 
 type PresetDataProps = {
