@@ -72,16 +72,22 @@ const Header = () => {
                 <S.Content>
                     <h3>Dados de acesso</h3>
                     <select
+                        defaultValue="DEFAULT"
+                        data-testid="select-period-id"
                         name="select-period"
                         onChange={(e: ChangeEvent<HTMLSelectElement>) =>
                             handleSelect(e)
                         }
                     >
-                        <option selected disabled hidden>
+                        <option value="DEFAULT" disabled>
                             Selecione um período
                         </option>
                         {PRESET_DATAS.map((element) => (
-                            <option key={element.value} value={element.value}>
+                            <option
+                                data-testid="select-option"
+                                key={element.value}
+                                value={element.value}
+                            >
                                 {element.title}
                             </option>
                         ))}
