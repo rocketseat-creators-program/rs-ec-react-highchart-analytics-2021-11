@@ -1,14 +1,12 @@
 import Header from "../../components/Header";
+import { AnalyticsDataContextProvider } from "../../context/AnalyticsData/indext";
 import * as S from "./styles";
 
-const AccessData = () => {
-    const headerText = 10;
-
-    return (
-        <S.Wrapper>
-            <Header />
-        </S.Wrapper>
-    );
-};
+const AccessData = () => (
+    <AnalyticsDataContextProvider>
+        <Header />
+        <S.Content />
+    </AnalyticsDataContextProvider>
+);
 
 export default AccessData;
