@@ -7,7 +7,7 @@ import {
 export class AnalyticsService {
     constructor(
         private readonly httpClient: HttpClient,
-        private readonly url = `http://localhost:3000`
+        private readonly url = `http://localhost:5000`
     ) {}
 
     async getInformationsByPeriod(period: string) {

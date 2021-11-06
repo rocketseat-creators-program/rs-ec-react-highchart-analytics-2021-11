@@ -24,7 +24,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "server": "json-server --watch src/data/db.json",
+    "server": "json-server --watch --port 5000 src/data/db.json",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "format": "prettier --config .prettierrc.js src/**/*.ts{,x} --write",
