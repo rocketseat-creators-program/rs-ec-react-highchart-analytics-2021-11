@@ -29,13 +29,13 @@ export const TotalAccessOnPages = () => {
             {
                 name: "Ignite",
                 type: "column",
-                data: [analyticsDataState.totalAccessOnPages.ignite || 0],
+                data: [analyticsDataState?.totalAccessOnPages?.ignite],
                 color: AnalyticsColors.purple,
             },
             {
                 name: "Experts Club",
                 type: "column",
-                data: [analyticsDataState.totalAccessOnPages.expertsClub || 0],
+                data: [analyticsDataState?.totalAccessOnPages?.expertsClub],
                 color: AnalyticsColors.ecWine,
             },
         ],
