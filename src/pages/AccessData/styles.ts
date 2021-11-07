@@ -8,5 +8,5 @@ export const Content = styled.section`
     row-gap: 46px;
     column-gap: 40px;
 
-    grid-template: "" minmax(auto, auto) / auto auto;
+    grid-template: "totalAccessOnPages totalAccessOnPages" minmax(auto, auto) / auto auto;
 `;
