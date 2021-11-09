@@ -18,6 +18,7 @@ export const TotalAccessOnPages = () => {
                 color: AnalyticsColors.black,
                 fontWeight: "bold",
                 fontStyle: "Normal",
+                fontFamily: "Inter",
             },
         },
 
