@@ -1,8 +1,14 @@
 {
     "yesterday": {
         "totalAccessOnPages": {
-            "ignite": 50,
-            "expertsClub": 17,
+            "ignite": {
+                "porcentage": 75,
+                "value": 50
+            },
+            "expertsClub": {
+                "porcentage": 25,
+                "value": 17
+            },
             "all": 67
         },
         "totalAccessOnPagesByHour": {
@@ -82,8 +88,16 @@
     },
     "last_week": {
         "totalAccessOnPages": {
-            "ignite": 500,
-            "expertsClub": 170,
+            "ignite":  {
+                "porcentage": 75,
+                "value": 500
+            }
+            
+            ,
+            "expertsClub":  {
+                "porcentage": 25,
+                "value": 170
+            },
             "all": 670
         },
         "totalAccessOnPagesByHour": {
@@ -163,8 +177,16 @@
     },
     "last_30_days": {
         "totalAccessOnPages": {
-            "ignite": 5000,
-            "expertsClub": 1700,
+            "ignite":  {
+                "porcentage": 60,
+                "value": 4000
+            }
+            
+            ,
+            "expertsClub":  {
+                "porcentage": 40,
+                "value": 2700
+            },
             "all": 6700
         },
         "totalAccessOnPagesByHour": {
@@ -247,8 +269,16 @@
     },
     "last_3_months": {
         "totalAccessOnPages": {
-            "ignite": 50000,
-            "expertsClub": 17000,
+            "ignite":  {
+                "porcentage": 30,
+                "value": 20000
+            }
+            
+            ,
+            "expertsClub":  {
+                "porcentage": 70,
+                "value": 47000
+            },
             "all": 67000
         },
         "totalAccessOnPagesByHour": {
@@ -332,8 +362,16 @@
     },
     "last_6_months": {
         "totalAccessOnPages": {
-            "ignite": 500000,
-            "expertsClub": 170000,
+            "ignite":  {
+                "porcentage": 75,
+                "value": 500000
+            }
+            
+            ,
+            "expertsClub":  {
+                "porcentage": 25,
+                "value": 170000
+            },
             "all": 670000
         },
         "totalAccessOnPagesByHour": {
@@ -418,9 +456,18 @@
         ]
     },
     "last_12_months": {
+        
         "totalAccessOnPages": {
-            "ignite": 5003000,
-            "expertsClub": 1270000,
+            "ignite":  {
+                "porcentage": 80,
+                "value": 5003000
+            }
+            
+            ,
+            "expertsClub":  {
+                "porcentage": 20,
+                "value": 1270000
+            },
             "all": 6470000
         },
         "totalAccessOnPagesByHour": {
