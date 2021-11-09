@@ -60,7 +60,7 @@ const PorcentageOfAccessOnPages = () => {
                 const self: TooltipFormatterContextObject = this;
                 return `<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 10px; z-index: 1">
                 <h1 style="font-size: 36px; font-family: Inter; color: ${AnalyticsColors.black}; margin: 0px;"> ${self.point.x}% </h1>
-                <span style="font-size: 24px; font-weight: 500; font-style: normal; color: ${AnalyticsColors.darkGray}">${self.point.y} Acessos</span>
+                <span style="font-size: 24px; font-weight: 500; font-style: normal; color: ${AnalyticsColors.darkGray}">${self.point.y} Acessos </span>
                 </div>`;
             },
         },
