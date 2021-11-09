@@ -4,4 +4,5 @@ export const AnalyticsColors = {
     lightGrey: "#F4F4F4",
     ecWine: "#DD2919",
     purple: "#8257E5",
+    darkGray: "#78787F",
 };
