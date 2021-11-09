@@ -63,6 +63,9 @@ const PorcentageOfAccessOnPages = () => {
                 <span style="font-size: 24px; font-weight: 500; font-style: normal; color: ${AnalyticsColors.darkGray}">${self.point.y} Acessos </span>
                 </div>`;
             },
+            positioner() {
+                return { x: 170, y: 80 };
+            },
         },
     };
 
