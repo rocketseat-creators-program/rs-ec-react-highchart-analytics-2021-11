@@ -1,7 +1,13 @@
 export type AnalyticsData = {
     totalAccessOnPages: {
-        ignite: number;
-        expertsClub: number;
+        ignite: {
+            porcentage: number;
+            value: number;
+        };
+        expertsClub: {
+            porcentage: number;
+            value: number;
+        };
         all: number;
     };
     totalAccessOnPagesByHour: {
