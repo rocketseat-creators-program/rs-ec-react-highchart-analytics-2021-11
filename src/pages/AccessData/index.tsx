@@ -9,6 +9,7 @@ const AccessData = () => (
         <S.Content>
             <C.TotalAccessOnPages />
             <C.PorcentageOfAccessOnPages />
+            <C.TotalAccessPerHour />
         </S.Content>
     </AnalyticsDataContextProvider>
 );
