@@ -11,5 +11,6 @@ export const Content = styled.section`
     grid-template:
         "totalAccessOnPages porcentageOfAccessOnPages" minmax(auto, auto)
         "totalAccessPerHour totalAccessPerHour" minmax(auto, auto)
+        "totalAccessPerMonth totalAccessPerMonth" minmax(auto, auto)
         / 995px 710px;
 `;
