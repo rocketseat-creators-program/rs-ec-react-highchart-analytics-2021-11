@@ -19,8 +19,6 @@ const TotalAccessPerMonth = () => {
                 text: "",
             },
 
-            tickmarkPlacement: "on",
-            alignTicks: true,
             labels: {
                 format: "{value: %b}",
             },
