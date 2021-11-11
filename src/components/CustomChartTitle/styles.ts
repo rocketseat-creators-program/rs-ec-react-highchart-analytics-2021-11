@@ -5,7 +5,7 @@ export const Wrapper = styled.section`
     display: flex;
     flex-direction: column;
 
-    border: 1px solid ${AnalyticsColors.grey};
+    border-bottom: 1px solid ${AnalyticsColors.grey};
     padding: 20px 32px;
 `;
 
