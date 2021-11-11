@@ -1,5 +1,6 @@
 import { TooltipFormatterContextObject } from "highcharts";
 import Chart from "../../../../components/Chart";
+import CustomChartTitle from "../../../../components/CustomChartTitle";
 import { AnalyticsColors } from "../../../../constants";
 import useAnalyticsData from "../../../../hook/useAnalyticsData";
 import * as S from "./styles";
@@ -57,6 +58,10 @@ const TotalAccessPerHour = () => {
     };
     return (
         <S.Wrapper>
+            <CustomChartTitle
+                description="Acompanhe a quantidade de acesso por hora nas páginas do ignite e do experts club"
+                title="Total de acessos por hora nas páginas"
+            />
             <Chart options={options} />
         </S.Wrapper>
     );

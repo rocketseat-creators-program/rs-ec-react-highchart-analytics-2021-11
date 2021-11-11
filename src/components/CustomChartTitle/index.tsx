@@ -1,12 +1,15 @@
 import * as S from "./styles";
 
-const CustomChartTitle = () => {
+interface CustomChartTitleProps {
+    title: string;
+    description: string;
+}
+
+const CustomChartTitle = ({ title, description }: CustomChartTitleProps) => {
     return (
         <S.Wrapper>
-            <S.Title>Exemplo de titlu</S.Title>
-            <S.Description>
-                Exemplo de describe Exemplo de describe Exemplo de describe
-            </S.Description>
+            <S.Title>{title}</S.Title>
+            <S.Description>{description}</S.Description>
         </S.Wrapper>
     );
 };
