@@ -6,3 +6,17 @@ export const AnalyticsColors = {
     purple: "#8257E5",
     darkGray: "#78787F",
 };
+
+export const size = {
+    xs: "460px",
+    sm: "900px",
+    md: "1200px",
+    lg: "1400px",
+};
+
+export const device = {
+    xs: `(max-width: ${size.xs})`,
+    sm: `(max-width: ${size.sm})`,
+    md: `(max-width: ${size.md})`,
+    lg: `(max-width: ${size.lg})`,
+};

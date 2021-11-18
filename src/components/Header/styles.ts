@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { AnalyticsColors } from "../../constants";
+import { AnalyticsColors, device } from "../../constants";
 
 export const Wrapper = styled.div``;
 
@@ -44,6 +44,10 @@ export const Main = styled.main`
 
         color: ${AnalyticsColors.black};
     }
+
+    @media ${device.xs} {
+        padding: 80px 80px 0px 80px;
+    }
 `;
 
 export const Content = styled.section`
@@ -81,6 +85,10 @@ export const Content = styled.section`
         top: 20px;
         right: 24px;
         position: absolute;
+
+        @media ${device.xs} {
+            top: 90px;
+        }
     }
 
     h3 {
@@ -100,5 +108,10 @@ export const Content = styled.section`
         line-height: 29px;
 
         color: ${AnalyticsColors.black};
+    }
+
+    @media ${device.xs} {
+        flex-direction: column;
+        height: 130px;
     }
 `;
