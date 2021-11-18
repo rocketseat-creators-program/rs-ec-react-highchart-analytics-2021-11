@@ -141,6 +141,46 @@
             {
                 "name": "PagSeguro",
                 "weight": 10
+            },
+            {
+                "name": "Totvs",
+                "weight": 3
+            },
+            {
+                "name": "Node",
+                "weight": 3
+            },
+            {
+                "name": "React",
+                "weight": 8
+            },
+            {
+                "name": "Typescript",
+                "weight": 8
+            },
+            {
+                "name": "Java",
+                "weight": 5
+            },
+            {
+                "name": "Javascript",
+                "weight": 7
+            },
+            {
+                "name": "GraphQL",
+                "weight": 10
+            },
+            {
+                "name": "Next.js",
+                "weight": 10
+            },
+            {
+                "name": "Fluig",
+                "weight": 2
+            },
+            {
+                "name": "CSS",
+                "weight": 4
             }
         ]
     },
@@ -180,7 +220,7 @@
             "mobile": 1700,
             "browser": 5000
         },
-        "wordCloud": [
+        "wordCloud":[
             {
                 "name": "Google",
                 "weight": 3
@@ -216,6 +256,110 @@
             {
                 "name": "PagSeguro",
                 "weight": 10
+            },
+            {
+                "name": "Totvs",
+                "weight": 3
+            },
+            {
+                "name": "Node",
+                "weight": 3
+            },
+            {
+                "name": "React",
+                "weight": 8
+            },
+            {
+                "name": "Typescript",
+                "weight": 8
+            },
+            {
+                "name": "Java",
+                "weight": 5
+            },
+            {
+                "name": "Javascript",
+                "weight": 7
+            },
+            {
+                "name": "GraphQL",
+                "weight": 10
+            },
+            {
+                "name": "Next.js",
+                "weight": 10
+            },
+            {
+                "name": "Fluig",
+                "weight": 2
+            },
+            {
+                "name": "CSS",
+                "weight": 4
+            },
+            {
+                "name": "HTML",
+                "weight": 5
+            },
+            {
+                "name": "Vue.js",
+                "weight": 6
+            },
+            {
+                "name": "Metor.js",
+                "weight": 2
+            },
+            {
+                "name": "MongoDB",
+                "weight": 2
+            },
+            {
+                "name": "PHP",
+                "weight": 6
+            },
+            {
+                "name": "Wordpress",
+                "weight": 3
+            },
+            {
+                "name": "ASPnet",
+                "weight": 4
+            },
+            {
+                "name": "C",
+                "weight": 1
+            },
+            {
+                "name": "C#",
+                "weight": 3
+            },
+            {
+                "name": "C++",
+                "weight": 6
+            },
+            {
+                "name": "Pascal",
+                "weight": 5
+            },
+            {
+                "name": "Python",
+                "weight": 5
+            },
+            {
+                "name": "Django",
+                "weight": 4
+            },
+            {
+                "name": "Flask",
+                "weight": 4
+            },
+            {
+                "name": "Express",
+                "weight": 6
+            },
+            {
+                "name": "Flutter",
+                "weight": 3
             }
         ]
     },
@@ -293,6 +437,204 @@
             {
                 "name": "PagSeguro",
                 "weight": 10
+            },
+            {
+                "name": "Totvs",
+                "weight": 3
+            },
+            {
+                "name": "Node",
+                "weight": 3
+            },
+            {
+                "name": "React",
+                "weight": 8
+            },
+            {
+                "name": "Typescript",
+                "weight": 8
+            },
+            {
+                "name": "Java",
+                "weight": 5
+            },
+            {
+                "name": "Javascript",
+                "weight": 7
+            },
+            {
+                "name": "GraphQL",
+                "weight": 10
+            },
+            {
+                "name": "Next.js",
+                "weight": 10
+            },
+            {
+                "name": "Fluig",
+                "weight": 2
+            },
+            {
+                "name": "CSS",
+                "weight": 4
+            },
+            {
+                "name": "HTML",
+                "weight": 5
+            },
+            {
+                "name": "Vue.js",
+                "weight": 6
+            },
+            {
+                "name": "Metor.js",
+                "weight": 2
+            },
+            {
+                "name": "MongoDB",
+                "weight": 2
+            },
+            {
+                "name": "PHP",
+                "weight": 6
+            },
+            {
+                "name": "Wordpress",
+                "weight": 3
+            },
+            {
+                "name": "ASPnet",
+                "weight": 4
+            },
+            {
+                "name": "C",
+                "weight": 1
+            },
+            {
+                "name": "C#",
+                "weight": 3
+            },
+            {
+                "name": "C++",
+                "weight": 6
+            },
+            {
+                "name": "Pascal",
+                "weight": 5
+            },
+            {
+                "name": "Python",
+                "weight": 5
+            },
+            {
+                "name": "Django",
+                "weight": 4
+            },
+            {
+                "name": "Flask",
+                "weight": 4
+            },
+            {
+                "name": "Express",
+                "weight": 6
+            },
+            {
+                "name": "Flutter",
+                "weight": 3
+            },
+            {
+                "name": "measures",
+                "weight": 8
+            }, {
+                "name": "theories",
+                "weight": 8
+            }, {
+                "name": "found",
+                "weight": 8
+            }, {
+                "name": "solving",
+                "weight": 7
+            }, {
+                "name": "knowledge",
+                "weight": 7
+            }, {
+                "name": "iq",
+                "weight": 7
+            }, {
+                "name": "working",
+                "weight": 7
+            }, {
+                "name": "positive",
+                "weight": 7
+            }, {
+                "name": "idea",
+                "weight": 7
+            }, {
+                "name": "studies",
+                "weight": 7
+            }, {
+                "name": "number",
+                "weight": 7
+            }, {
+                "name": "person",
+                "weight": 7
+            }, {
+                "name": "researchers",
+                "weight": 7
+            }, {
+                "name": "task",
+                "weight": 7
+            }, {
+                "name": "affect",
+                "weight": 7
+            }, {
+                "name": "group",
+                "weight": 7
+            }, {
+                "name": "memory",
+                "weight": 7
+            }, {
+                "name": "creation",
+                "weight": 7
+            }, {
+                "name": "individuals",
+                "weight": 7
+            }, {
+                "name": "concept",
+                "weight": 7
+            }, {
+                "name": "learning",
+                "weight": 7
+            }, {
+                "name": "given",
+                "weight": 7
+            }, {
+                "name": "ability",
+                "weight": 7
+            }, {
+                "name": "approach",
+                "weight": 7
+            }, {
+                "name": "innovation",
+                "weight": 7
+            }, {
+                "name": "malevolent",
+                "weight": 7
+            }, {
+                "name": "most",
+                "weight": 7
+            }, {
+                "name": "frontal",
+                "weight": 6
+            }, {
+                "name": "related",
+                "weight": 6
+            }, {
+                "name": "data",
+                "weight": 6
+            }, {
+                "name": "reported",
+                "weight": 6
             }
         ]
     },
@@ -375,6 +717,255 @@
             {
                 "name": "PagSeguro",
                 "weight": 10
+            },
+            {
+                "name": "Totvs",
+                "weight": 3
+            },
+            {
+                "name": "Node",
+                "weight": 3
+            },
+            {
+                "name": "React",
+                "weight": 8
+            },
+            {
+                "name": "Typescript",
+                "weight": 8
+            },
+            {
+                "name": "Java",
+                "weight": 5
+            },
+            {
+                "name": "Javascript",
+                "weight": 7
+            },
+            {
+                "name": "GraphQL",
+                "weight": 10
+            },
+            {
+                "name": "Next.js",
+                "weight": 10
+            },
+            {
+                "name": "Fluig",
+                "weight": 2
+            },
+            {
+                "name": "CSS",
+                "weight": 4
+            },
+            {
+                "name": "HTML",
+                "weight": 5
+            },
+            {
+                "name": "Vue.js",
+                "weight": 6
+            },
+            {
+                "name": "Metor.js",
+                "weight": 2
+            },
+            {
+                "name": "MongoDB",
+                "weight": 2
+            },
+            {
+                "name": "PHP",
+                "weight": 6
+            },
+            {
+                "name": "Wordpress",
+                "weight": 3
+            },
+            {
+                "name": "ASPnet",
+                "weight": 4
+            },
+            {
+                "name": "C",
+                "weight": 1
+            },
+            {
+                "name": "C#",
+                "weight": 3
+            },
+            {
+                "name": "C++",
+                "weight": 6
+            },
+            {
+                "name": "Pascal",
+                "weight": 5
+            },
+            {
+                "name": "Python",
+                "weight": 5
+            },
+            {
+                "name": "Django",
+                "weight": 4
+            },
+            {
+                "name": "Flask",
+                "weight": 4
+            },
+            {
+                "name": "Express",
+                "weight": 6
+            },
+            {
+                "name": "Flutter",
+                "weight": 3
+            },
+            {
+                "name": "measures",
+                "weight": 8
+            }, {
+                "name": "theories",
+                "weight": 8
+            }, {
+                "name": "found",
+                "weight": 8
+            }, {
+                "name": "solving",
+                "weight": 7
+            }, {
+                "name": "knowledge",
+                "weight": 7
+            }, {
+                "name": "iq",
+                "weight": 7
+            }, {
+                "name": "working",
+                "weight": 7
+            }, {
+                "name": "positive",
+                "weight": 7
+            }, {
+                "name": "idea",
+                "weight": 7
+            }, {
+                "name": "studies",
+                "weight": 7
+            }, {
+                "name": "number",
+                "weight": 7
+            }, {
+                "name": "person",
+                "weight": 7
+            }, {
+                "name": "researchers",
+                "weight": 7
+            }, {
+                "name": "task",
+                "weight": 7
+            }, {
+                "name": "affect",
+                "weight": 7
+            }, {
+                "name": "group",
+                "weight": 7
+            }, {
+                "name": "memory",
+                "weight": 7
+            }, {
+                "name": "creation",
+                "weight": 7
+            }, {
+                "name": "individuals",
+                "weight": 7
+            }, {
+                "name": "concept",
+                "weight": 7
+            }, {
+                "name": "learning",
+                "weight": 7
+            }, {
+                "name": "given",
+                "weight": 7
+            }, {
+                "name": "ability",
+                "weight": 7
+            }, {
+                "name": "approach",
+                "weight": 7
+            }, {
+                "name": "innovation",
+                "weight": 7
+            }, {
+                "name": "malevolent",
+                "weight": 7
+            }, {
+                "name": "most",
+                "weight": 7
+            }, {
+                "name": "frontal",
+                "weight": 6
+            }, {
+                "name": "related",
+                "weight": 6
+            }, {
+                "name": "data",
+                "weight": 6
+            }, {
+                "name": "reported",
+                "weight": 6
+            }, {
+                "name": "incubation",
+                "weight": 6
+            }, {
+                "name": "thought",
+                "weight": 6
+            }, {
+                "name": "intrinsic",
+                "weight": 6
+            }, {
+                "name": "used",
+                "weight": 6
+            }, {
+                "name": "implicit",
+                "weight": 6
+            }, {
+                "name": "increase",
+                "weight": 6
+            }, {
+                "name": "general",
+                "weight": 6
+            }, {
+                "name": "mental",
+                "weight": 6
+            }, {
+                "name": "early",
+                "weight": 6
+            }, {
+                "name": "economic",
+                "weight": 6
+            }, {
+                "name": "level",
+                "weight": 6
+            }, {
+                "name": "students",
+                "weight": 6
+            }, {
+                "name": "human",
+                "weight": 6
+            }, {
+                "name": "constructs",
+                "weight": 6
+            }, {
+                "name": "problems",
+                "weight": 6
+            }, {
+                "name": "elements",
+                "weight": 6
+            }, {
+                "name": "proposed",
+                "weight": 6
             }
         ]
     },
@@ -464,7 +1055,308 @@
             {
                 "name": "PagSeguro",
                 "weight": 10
+            },
+            {
+                "name": "Totvs",
+                "weight": 3
+            },
+            {
+                "name": "Node",
+                "weight": 3
+            },
+            {
+                "name": "React",
+                "weight": 8
+            },
+            {
+                "name": "Typescript",
+                "weight": 8
+            },
+            {
+                "name": "Java",
+                "weight": 5
+            },
+            {
+                "name": "Javascript",
+                "weight": 7
+            },
+            {
+                "name": "GraphQL",
+                "weight": 10
+            },
+            {
+                "name": "Next.js",
+                "weight": 10
+            },
+            {
+                "name": "Fluig",
+                "weight": 2
+            },
+            {
+                "name": "CSS",
+                "weight": 4
+            },
+            {
+                "name": "HTML",
+                "weight": 5
+            },
+            {
+                "name": "Vue.js",
+                "weight": 6
+            },
+            {
+                "name": "Metor.js",
+                "weight": 2
+            },
+            {
+                "name": "MongoDB",
+                "weight": 2
+            },
+            {
+                "name": "PHP",
+                "weight": 6
+            },
+            {
+                "name": "Wordpress",
+                "weight": 3
+            },
+            {
+                "name": "ASPnet",
+                "weight": 4
+            },
+            {
+                "name": "C",
+                "weight": 1
+            },
+            {
+                "name": "C#",
+                "weight": 3
+            },
+            {
+                "name": "C++",
+                "weight": 6
+            },
+            {
+                "name": "Pascal",
+                "weight": 5
+            },
+            {
+                "name": "Python",
+                "weight": 5
+            },
+            {
+                "name": "Django",
+                "weight": 4
+            },
+            {
+                "name": "Flask",
+                "weight": 4
+            },
+            {
+                "name": "Express",
+                "weight": 6
+            },
+            {
+                "name": "Flutter",
+                "weight": 3
+            },
+            {
+                "name": "measures",
+                "weight": 8
+            }, {
+                "name": "theories",
+                "weight": 8
+            }, {
+                "name": "found",
+                "weight": 8
+            }, {
+                "name": "solving",
+                "weight": 7
+            }, {
+                "name": "knowledge",
+                "weight": 7
+            }, {
+                "name": "iq",
+                "weight": 7
+            }, {
+                "name": "working",
+                "weight": 7
+            }, {
+                "name": "positive",
+                "weight": 7
+            }, {
+                "name": "idea",
+                "weight": 7
+            }, {
+                "name": "studies",
+                "weight": 7
+            }, {
+                "name": "number",
+                "weight": 7
+            }, {
+                "name": "person",
+                "weight": 7
+            }, {
+                "name": "researchers",
+                "weight": 7
+            }, {
+                "name": "task",
+                "weight": 7
+            }, {
+                "name": "affect",
+                "weight": 7
+            }, {
+                "name": "group",
+                "weight": 7
+            }, {
+                "name": "memory",
+                "weight": 7
+            }, {
+                "name": "creation",
+                "weight": 7
+            }, {
+                "name": "individuals",
+                "weight": 7
+            }, {
+                "name": "concept",
+                "weight": 7
+            }, {
+                "name": "learning",
+                "weight": 7
+            }, {
+                "name": "given",
+                "weight": 7
+            }, {
+                "name": "ability",
+                "weight": 7
+            }, {
+                "name": "approach",
+                "weight": 7
+            }, {
+                "name": "innovation",
+                "weight": 7
+            }, {
+                "name": "malevolent",
+                "weight": 7
+            }, {
+                "name": "most",
+                "weight": 7
+            }, {
+                "name": "frontal",
+                "weight": 6
+            }, {
+                "name": "related",
+                "weight": 6
+            }, {
+                "name": "data",
+                "weight": 6
+            }, {
+                "name": "reported",
+                "weight": 6
+            }, {
+                "name": "incubation",
+                "weight": 6
+            }, {
+                "name": "thought",
+                "weight": 6
+            }, {
+                "name": "intrinsic",
+                "weight": 6
+            }, {
+                "name": "used",
+                "weight": 6
+            }, {
+                "name": "implicit",
+                "weight": 6
+            }, {
+                "name": "increase",
+                "weight": 6
+            }, {
+                "name": "general",
+                "weight": 6
+            }, {
+                "name": "mental",
+                "weight": 6
+            }, {
+                "name": "early",
+                "weight": 6
+            }, {
+                "name": "economic",
+                "weight": 6
+            }, {
+                "name": "level",
+                "weight": 6
+            }, {
+                "name": "students",
+                "weight": 6
+            }, {
+                "name": "human",
+                "weight": 6
+            }, {
+                "name": "constructs",
+                "weight": 6
+            }, {
+                "name": "problems",
+                "weight": 6
+            }, {
+                "name": "elements",
+                "weight": 6
+            }, {
+                "name": "proposed",
+                "weight": 6
+            }, {
+                "name": "lobe",
+                "weight": 6
+            }, {
+                "name": "participants",
+                "weight": 6
+            }, {
+                "name": "according",
+                "weight": 6
+            }, {
+                "name": "key",
+                "weight": 6
+            }, {
+                "name": "century",
+                "weight": 6
+            }, {
+                "name": "type",
+                "weight": 6
+            }, {
+                "name": "skills",
+                "weight": 6
+            }, {
+                "name": "relationship",
+                "weight": 6
+            }, {
+                "name": "will",
+                "weight": 6
+            }, {
+                "name": "environment",
+                "weight": 6
+            }, {
+                "name": "time",
+                "weight": 6
+            }, {
+                "name": "view",
+                "weight": 6
+            }, {
+                "name": "create",
+                "weight": 6
+            }, {
+                "name": "worldview",
+                "weight": 6
+            }, {
+                "name": "processing",
+                "weight": 6
+            }, {
+                "name": "seen",
+                "weight": 6
+            }, {
+                "name": "aggression",
+                "weight": 6
             }
+
         ]
     }
 }
