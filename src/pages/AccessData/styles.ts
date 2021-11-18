@@ -12,5 +12,6 @@ export const Content = styled.section`
         "totalAccessOnPages porcentageOfAccessOnPages" minmax(auto, auto)
         "totalAccessPerHour totalAccessPerHour" minmax(auto, auto)
         "totalAccessPerMonth totalAccessPerMonth" minmax(auto, auto)
+        "wordcloud wordcloud" minmax(auto, auto)
         / 995px 710px;
 `;

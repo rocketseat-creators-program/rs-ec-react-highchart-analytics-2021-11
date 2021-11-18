@@ -11,6 +11,7 @@ const AccessData = () => (
             <C.PorcentageOfAccessOnPages />
             <C.TotalAccessPerHour />
             <C.TotalAccessPerMonth />
+            <C.Wordcloud />
         </S.Content>
     </AnalyticsDataContextProvider>
 );
