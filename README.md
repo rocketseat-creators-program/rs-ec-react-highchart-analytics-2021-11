@@ -2,7 +2,7 @@
 
 # Gerando gráficos personalizados utilizando highcharts, React e Typescript.
 
-Criar gráficos personalizados com React e typescript parece não ser uma tarefa fácil, mas com highcharts essa conversa muda!
+Criar gráficos personalizados com React e typescript parece não ser uma tarefa fácil, mas com Highcharts essa conversa muda!
 
 Nesse vídeo vamos utilizar o highcharts para criar gráficos personalizados em React, com typescript, de uma forma simples e estruturada. Explorando as qualidades destas ferramentas para montar um projeto de análise de dados de acesso as plataformas da rocketseat. 
 
