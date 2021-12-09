@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { AnalyticsColors } from "../../constants";
+import { AnalyticsColors, device } from "../../constants";
 
 export const Wrapper = styled.div``;
 
@@ -44,6 +44,10 @@ export const Main = styled.main`
 
         color: ${AnalyticsColors.black};
     }
+
+    @media ${device.xs} {
+        padding: 80px 40px 0px 40px;
+    }
 `;
 
 export const Content = styled.section`
@@ -56,6 +60,11 @@ export const Content = styled.section`
 
     font-family: Inter;
     font-style: normal;
+
+    @media ${device.xs} {
+        flex-direction: column;
+        height: 130px;
+    }
 
     select {
         width: 271px;
@@ -73,6 +82,9 @@ export const Content = styled.section`
         line-height: 19px;
 
         color: ${AnalyticsColors.black};
+        @media ${device.xs} {
+            width: -webkit-fill-available;
+        }
     }
 
     &::after {
@@ -81,6 +93,11 @@ export const Content = styled.section`
         top: 20px;
         right: 24px;
         position: absolute;
+
+        @media ${device.xs} {
+            top: 90px;
+            right: 45px;
+        }
     }
 
     h3 {
@@ -100,5 +117,9 @@ export const Content = styled.section`
         line-height: 29px;
 
         color: ${AnalyticsColors.black};
+
+        @media ${device.xs} {
+            width: -webkit-fill-available;
+        }
     }
 `;
